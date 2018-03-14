@@ -15,4 +15,4 @@ class InternalBlogApp extends Component {
   }
 }
 
-export default App;
+export default InternalBlogApp;
