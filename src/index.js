@@ -4,5 +4,5 @@ import './index.css';
 import InternalBlogApp from './InternalBlogApp';
 import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(<InternalBlogApp />, document.getElementById('root'));
+ReactDOM.render(<InternalBlogApp />, document.getElementById('react-container'));
 registerServiceWorker();
